@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #379237;
+}
+
 .titulo {
     text-align: center;
     background-color: black;
